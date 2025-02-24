@@ -1,5 +1,4 @@
 # Task Management Application
-contact: vxk68030@ucmo.edu
 
 A full-stack task management application built with React, Node.js, and PostgreSQL, containerized with Docker.
 
@@ -50,12 +49,6 @@ docker-compose up --build
   .Backend API: http://localhost:3000/api
   .PostgreSQL: localhost:5433
 
-## Salary expectation
-- 1600/month (20hrs per week)
-- 3200/month (40hrs per week)
-
-## Video Demonstration
-[Video Link](https://drive.google.com/file/d/1OJWglcipAJHwa6PvXpxf4DlYIwi9RwWz/view?usp=drive_link)
 
 
 
