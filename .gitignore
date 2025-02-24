@@ -1,0 +1,28 @@
+# Environment variables
+.env
+**/.env
+backend/.env
+frontend/.env
+
+# Dependencies
+**/node_modules
+node_modules
+
+# Build outputs
+**/dist
+**/build
+**/.next
+**/.cache
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+**/*.log
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
