@@ -55,7 +55,7 @@ docker-compose up --build
 - 3200/month (40hrs per week)
 
 ## Video Demonstration
--[Video Link](https://drive.google.com/file/d/1OJWglcipAJHwa6PvXpxf4DlYIwi9RwWz/view?usp=drive_link)
+[Video Link](https://drive.google.com/file/d/1OJWglcipAJHwa6PvXpxf4DlYIwi9RwWz/view?usp=drive_link)
 
 
 
